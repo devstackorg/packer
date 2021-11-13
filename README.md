@@ -1,7 +1,7 @@
 
 
 
-$git clone https://github.com/cssporg/packer.git
+$git clone https://github.com/devstackorg/packer.git
 
 $cd packer/
 
